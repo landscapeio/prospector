@@ -2,6 +2,21 @@
 Changelog
 #########
 
+Version 1.11.0
+--------------
+
+**New**:
+
+* pylint can now be upgraded to version 3.0.0 or more
+* prospector now support python 3.12
+
+Version 1.10.4
+--------------
+
+**Bugfixes**:
+
+* pylint is now limited to version under 3
+
 Version 1.10.3
 --------------
 
